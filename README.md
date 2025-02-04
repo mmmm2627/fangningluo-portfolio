@@ -31,5 +31,5 @@ I am a Biostatistics Master's student at UCLA with expertise in statistical mode
 
 ### 🧠 Project 3: Predicting Surface Protein Levels from Gene Expression
 - Summary: Developed a neural network model to predict surface protein levels from gene expression data, leveraging MLP and CNN architectures. Achieved a high accuracy score of 0.936, optimizing model performance with early stopping, learning rate scheduling, and cross-validation.
-- Tech Stack: Python (TensorFlow, Keras, Pandas), Neural Networks (MLP, CNN)
+- Tech Stack: Python (scikit-learn, NumPy, PyTorch), Neural Networks (MLP, CNN)
 - Repo: [Project 3 Surface Protein Prediction]
